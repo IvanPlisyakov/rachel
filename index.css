@@ -1,0 +1,48 @@
+body {
+  background-color: #f7f7f7;
+}
+
+.page {
+  background-color: #ffffff;
+  width: 1000px;
+  margin: auto;
+  padding: 38px 0 0 0;
+}
+
+.logo {
+  width: 226px;
+  margin: 0 auto 28px auto;
+  display: block;
+}
+
+.section1 {
+  background-color: #f3f3f3;
+  padding: 54px 42px;
+}
+
+.section1__text {
+  font-size: 48px;
+  text-align: center;
+  font-weight: 900;
+  margin: 0;
+  color: #212529;
+}
+
+.section2 {
+  padding: 50px 50px 50px 50px;
+}
+
+.section2__text {
+  color: #252535;
+  font-size: 28px;
+  line-height: 40px;
+  font-weight: 500;
+  margin: 0;
+  padding-bottom: 50px;
+  border-bottom: 3px solid #e9e9e9;
+}
+
+.section2__span {
+  color: #e768a1;
+  font-weight: 700;
+}
